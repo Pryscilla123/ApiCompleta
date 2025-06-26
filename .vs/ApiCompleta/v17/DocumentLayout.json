@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F2B96-F646-4859-98FA-33A429E2CD2A}|Itens de Solu\u00E7\u00E3o{0C1F2B96-F646-4859-98FA-33A429E2CD2A}|C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{0C1F2B96-F646-4859-98FA-33A429E2CD2A}|Itens de Solu\u00E7\u00E3o{0C1F2B96-F646-4859-98FA-33A429E2CD2A}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAqwIYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-26T19:20:59.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
