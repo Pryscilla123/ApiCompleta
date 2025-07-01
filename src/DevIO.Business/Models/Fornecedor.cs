@@ -9,6 +9,6 @@
         public bool Ativo { get; set; }
 
         /* EF Relations */
-        public IEnumerable<Produto> Produtos { get; set; }
+        public IEnumerable<Produto> Produtos { get; set; } = new List<Produto>();
     }
 }

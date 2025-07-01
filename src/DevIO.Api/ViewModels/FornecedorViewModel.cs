@@ -21,6 +21,6 @@ namespace DevIO.Api.ViewModels
 
         public bool Ativo {  get; set; }
 
-        public IEnumerable<ProdutoViewModel>? Produtos { get; set; }
+        public IEnumerable<ProdutoViewModel> Produtos { get; set; } = new List<ProdutoViewModel>();
     }
 }
