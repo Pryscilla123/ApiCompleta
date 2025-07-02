@@ -7,24 +7,32 @@
       "RelativeMoniker": "D:0:0:{4E660146-94BA-47DB-B301-6FC47C515DA8}|src\\DevIO.Api\\DevIO.Api.csproj|solutionrelative:src\\devio.api\\controllers\\fornecedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E660146-94BA-47DB-B301-6FC47C515DA8}|src\\DevIO.Api\\DevIO.Api.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\apicompleta\\src\\devio.api\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E660146-94BA-47DB-B301-6FC47C515DA8}|src\\DevIO.Api\\DevIO.Api.csproj|solutionrelative:src\\devio.api\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E660146-94BA-47DB-B301-6FC47C515DA8}|src\\DevIO.Api\\DevIO.Api.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\apicompleta\\src\\devio.api\\configurations\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E660146-94BA-47DB-B301-6FC47C515DA8}|src\\DevIO.Api\\DevIO.Api.csproj|solutionrelative:src\\devio.api\\configurations\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E660146-94BA-47DB-B301-6FC47C515DA8}|src\\DevIO.Api\\DevIO.Api.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\apicompleta\\src\\devio.api\\viewmodels\\fornecedorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E660146-94BA-47DB-B301-6FC47C515DA8}|src\\DevIO.Api\\DevIO.Api.csproj|solutionrelative:src\\devio.api\\viewmodels\\fornecedorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E660146-94BA-47DB-B301-6FC47C515DA8}|src\\DevIO.Api\\DevIO.Api.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\apicompleta\\src\\devio.api\\configurations\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E660146-94BA-47DB-B301-6FC47C515DA8}|src\\DevIO.Api\\DevIO.Api.csproj|solutionrelative:src\\devio.api\\configurations\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FEFC7B8-44DC-464B-BCB5-BE5B7E119E82}|src\\DevIO.Business\\DevIO.Business.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\apicompleta\\src\\devio.business\\models\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FEFC7B8-44DC-464B-BCB5-BE5B7E119E82}|src\\DevIO.Business\\DevIO.Business.csproj|solutionrelative:src\\devio.business\\models\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FEFC7B8-44DC-464B-BCB5-BE5B7E119E82}|src\\DevIO.Business\\DevIO.Business.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\apicompleta\\src\\devio.business\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FEFC7B8-44DC-464B-BCB5-BE5B7E119E82}|src\\DevIO.Business\\DevIO.Business.csproj|solutionrelative:src\\devio.business\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7FEFC7B8-44DC-464B-BCB5-BE5B7E119E82}|src\\DevIO.Business\\DevIO.Business.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\apicompleta\\src\\devio.business\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FEFC7B8-44DC-464B-BCB5-BE5B7E119E82}|src\\DevIO.Business\\DevIO.Business.csproj|solutionrelative:src\\devio.business\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E660146-94BA-47DB-B301-6FC47C515DA8}|src\\DevIO.Api\\DevIO.Api.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\apicompleta\\src\\devio.api\\viewmodels\\fornecedorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E660146-94BA-47DB-B301-6FC47C515DA8}|src\\DevIO.Api\\DevIO.Api.csproj|solutionrelative:src\\devio.api\\viewmodels\\fornecedorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E660146-94BA-47DB-B301-6FC47C515DA8}|src\\DevIO.Api\\DevIO.Api.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\apicompleta\\src\\devio.api\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E660146-94BA-47DB-B301-6FC47C515DA8}|src\\DevIO.Api\\DevIO.Api.csproj|solutionrelative:src\\devio.api\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEFC7B8-44DC-464B-BCB5-BE5B7E119E82}|src\\DevIO.Business\\DevIO.Business.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\apicompleta\\src\\devio.business\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEFC7B8-44DC-464B-BCB5-BE5B7E119E82}|src\\DevIO.Business\\DevIO.Business.csproj|solutionrelative:src\\devio.business\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FEFC7B8-44DC-464B-BCB5-BE5B7E119E82}|src\\DevIO.Business\\DevIO.Business.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\apicompleta\\src\\devio.business\\models\\validations\\enderecovalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,14 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7FEFC7B8-44DC-464B-BCB5-BE5B7E119E82}|src\\DevIO.Business\\DevIO.Business.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\apicompleta\\src\\devio.business\\intefaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FEFC7B8-44DC-464B-BCB5-BE5B7E119E82}|src\\DevIO.Business\\DevIO.Business.csproj|solutionrelative:src\\devio.business\\intefaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E660146-94BA-47DB-B301-6FC47C515DA8}|src\\DevIO.Api\\DevIO.Api.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\apicompleta\\src\\devio.api\\configurations\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E660146-94BA-47DB-B301-6FC47C515DA8}|src\\DevIO.Api\\DevIO.Api.csproj|solutionrelative:src\\devio.api\\configurations\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E660146-94BA-47DB-B301-6FC47C515DA8}|src\\DevIO.Api\\DevIO.Api.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\apicompleta\\src\\devio.api\\configurations\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E660146-94BA-47DB-B301-6FC47C515DA8}|src\\DevIO.Api\\DevIO.Api.csproj|solutionrelative:src\\devio.api\\configurations\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E977E9A2-67B0-477B-A55F-8B0A2E7EB7AD}|src\\DevIO.Data\\DevIO.Data.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\apicompleta\\src\\devio.data\\devio.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -110,21 +110,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainController.cs",
-              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Api\\Controllers\\MainController.cs",
-              "RelativeDocumentMoniker": "src\\DevIO.Api\\Controllers\\MainController.cs",
-              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Api\\Controllers\\MainController.cs",
-              "RelativeToolTip": "src\\DevIO.Api\\Controllers\\MainController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwDcAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T23:39:10.432Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -133,48 +120,22 @@
               "RelativeDocumentMoniker": "src\\DevIO.Business\\Models\\Fornecedor.cs",
               "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Models\\Fornecedor.cs",
               "RelativeToolTip": "src\\DevIO.Business\\Models\\Fornecedor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T19:31:41.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "FornecedorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Api\\ViewModels\\FornecedorViewModel.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Api\\ViewModels\\FornecedorViewModel.cs",
               "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Api\\ViewModels\\FornecedorViewModel.cs",
               "RelativeToolTip": "src\\DevIO.Api\\ViewModels\\FornecedorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T21:46:05.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Models\\Produto.cs",
-              "RelativeDocumentMoniker": "src\\DevIO.Business\\Models\\Produto.cs",
-              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Models\\Produto.cs",
-              "RelativeToolTip": "src\\DevIO.Business\\Models\\Produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T19:31:42.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TipoFornecedor.cs",
-              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Models\\TipoFornecedor.cs",
-              "RelativeDocumentMoniker": "src\\DevIO.Business\\Models\\TipoFornecedor.cs",
-              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Models\\TipoFornecedor.cs",
-              "RelativeToolTip": "src\\DevIO.Business\\Models\\TipoFornecedor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T19:31:43.807Z",
               "EditorCaption": ""
             },
             {
@@ -185,14 +146,14 @@
               "RelativeDocumentMoniker": "src\\DevIO.Api\\Controllers\\FornecedoresController.cs",
               "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Api\\Controllers\\FornecedoresController.cs",
               "RelativeToolTip": "src\\DevIO.Api\\Controllers\\FornecedoresController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwGcAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T17:14:29.719Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Data\\Repository\\Repository.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Data\\Repository\\Repository.cs",
@@ -200,12 +161,11 @@
               "RelativeToolTip": "src\\DevIO.Data\\Repository\\Repository.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAYwCsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T22:31:20.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T22:31:20.74Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "IFornecedorService.cs",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Intefaces\\IFornecedorService.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Business\\Intefaces\\IFornecedorService.cs",
@@ -213,12 +173,11 @@
               "RelativeToolTip": "src\\DevIO.Business\\Intefaces\\IFornecedorService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T19:31:33.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T19:31:33.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Endereco.cs",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Models\\Endereco.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Business\\Models\\Endereco.cs",
@@ -231,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Entity.cs",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Models\\Entity.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Business\\Models\\Entity.cs",
@@ -239,12 +198,11 @@
               "RelativeToolTip": "src\\DevIO.Business\\Models\\Entity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T19:31:40.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T19:31:40.436Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "EnderecoValidation.cs",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Models\\Validations\\EnderecoValidation.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Business\\Models\\Validations\\EnderecoValidation.cs",
@@ -252,25 +210,24 @@
               "RelativeToolTip": "src\\DevIO.Business\\Models\\Validations\\EnderecoValidation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T19:31:46.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T19:31:46.409Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IFornecedorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Intefaces\\IFornecedorRepository.cs",
-              "RelativeDocumentMoniker": "src\\DevIO.Business\\Intefaces\\IFornecedorRepository.cs",
-              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Intefaces\\IFornecedorRepository.cs",
-              "RelativeToolTip": "src\\DevIO.Business\\Intefaces\\IFornecedorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjectionConfig.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Api\\Configurations\\DependencyInjectionConfig.cs",
+              "RelativeDocumentMoniker": "src\\DevIO.Api\\Configurations\\DependencyInjectionConfig.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Api\\Configurations\\DependencyInjectionConfig.cs",
+              "RelativeToolTip": "src\\DevIO.Api\\Configurations\\DependencyInjectionConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T19:31:30.163Z",
+              "WhenOpened": "2025-06-28T19:45:13.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 2,
               "Title": "AutoMapperConfig.cs",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Api\\Configurations\\AutoMapperConfig.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Api\\Configurations\\AutoMapperConfig.cs",
@@ -284,6 +241,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "TipoFornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Models\\TipoFornecedor.cs",
+              "RelativeDocumentMoniker": "src\\DevIO.Business\\Models\\TipoFornecedor.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Models\\TipoFornecedor.cs",
+              "RelativeToolTip": "src\\DevIO.Business\\Models\\TipoFornecedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T19:31:43.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "src\\DevIO.Business\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Models\\Produto.cs",
+              "RelativeToolTip": "src\\DevIO.Business\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T19:31:42.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Api\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "src\\DevIO.Api\\Controllers\\MainController.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Api\\Controllers\\MainController.cs",
+              "RelativeToolTip": "src\\DevIO.Api\\Controllers\\MainController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwDcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T23:39:10.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IFornecedorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Intefaces\\IFornecedorRepository.cs",
+              "RelativeDocumentMoniker": "src\\DevIO.Business\\Intefaces\\IFornecedorRepository.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Intefaces\\IFornecedorRepository.cs",
+              "RelativeToolTip": "src\\DevIO.Business\\Intefaces\\IFornecedorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T19:31:30.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Api\\Program.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Api\\Program.cs",
@@ -291,25 +296,11 @@
               "RelativeToolTip": "src\\DevIO.Api\\Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T17:40:53.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T17:40:53.768Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DependencyInjectionConfig.cs",
-              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Api\\Configurations\\DependencyInjectionConfig.cs",
-              "RelativeDocumentMoniker": "src\\DevIO.Api\\Configurations\\DependencyInjectionConfig.cs",
-              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Api\\Configurations\\DependencyInjectionConfig.cs",
-              "RelativeToolTip": "src\\DevIO.Api\\Configurations\\DependencyInjectionConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T19:45:13.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Intefaces\\IRepository.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Business\\Intefaces\\IRepository.cs",
@@ -317,8 +308,7 @@
               "RelativeToolTip": "src\\DevIO.Business\\Intefaces\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T19:31:36.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T19:31:36.887Z"
             },
             {
               "$type": "Document",
