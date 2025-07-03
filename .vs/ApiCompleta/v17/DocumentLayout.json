@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4E660146-94BA-47DB-B301-6FC47C515DA8}|src\\DevIO.Api\\DevIO.Api.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\apicompleta\\src\\devio.api\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E660146-94BA-47DB-B301-6FC47C515DA8}|src\\DevIO.Api\\DevIO.Api.csproj|solutionrelative:src\\devio.api\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4E660146-94BA-47DB-B301-6FC47C515DA8}|src\\DevIO.Api\\DevIO.Api.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\apicompleta\\src\\devio.api\\controllers\\fornecedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E660146-94BA-47DB-B301-6FC47C515DA8}|src\\DevIO.Api\\DevIO.Api.csproj|solutionrelative:src\\devio.api\\controllers\\fornecedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -110,11 +114,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Api\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "src\\DevIO.Api\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Api\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "src\\DevIO.Api\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T20:02:02.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Fornecedor.cs",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Models\\Fornecedor.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Business\\Models\\Fornecedor.cs",
@@ -127,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "FornecedorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Api\\ViewModels\\FornecedorViewModel.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Api\\ViewModels\\FornecedorViewModel.cs",
@@ -140,20 +157,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FornecedoresController.cs",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Api\\Controllers\\FornecedoresController.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Api\\Controllers\\FornecedoresController.cs",
               "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Api\\Controllers\\FornecedoresController.cs",
               "RelativeToolTip": "src\\DevIO.Api\\Controllers\\FornecedoresController.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAkwGcAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T17:14:29.719Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Data\\Repository\\Repository.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Data\\Repository\\Repository.cs",
@@ -165,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "IFornecedorService.cs",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Intefaces\\IFornecedorService.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Business\\Intefaces\\IFornecedorService.cs",
@@ -177,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Endereco.cs",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Models\\Endereco.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Business\\Models\\Endereco.cs",
@@ -190,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Entity.cs",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Models\\Entity.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Business\\Models\\Entity.cs",
@@ -202,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "EnderecoValidation.cs",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Models\\Validations\\EnderecoValidation.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Business\\Models\\Validations\\EnderecoValidation.cs",
@@ -214,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DependencyInjectionConfig.cs",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Api\\Configurations\\DependencyInjectionConfig.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Api\\Configurations\\DependencyInjectionConfig.cs",
@@ -227,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AutoMapperConfig.cs",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Api\\Configurations\\AutoMapperConfig.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Api\\Configurations\\AutoMapperConfig.cs",
@@ -240,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "TipoFornecedor.cs",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Models\\TipoFornecedor.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Business\\Models\\TipoFornecedor.cs",
@@ -252,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Business\\Models\\Produto.cs",
@@ -264,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MainController.cs",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Api\\Controllers\\MainController.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Api\\Controllers\\MainController.cs",
@@ -276,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "IFornecedorRepository.cs",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Intefaces\\IFornecedorRepository.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Business\\Intefaces\\IFornecedorRepository.cs",
@@ -288,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Api\\Program.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Api\\Program.cs",
@@ -300,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Intefaces\\IRepository.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Business\\Intefaces\\IRepository.cs",
@@ -312,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "DevIO.Data.csproj",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
               "RelativeDocumentMoniker": "src\\DevIO.Data\\DevIO.Data.csproj",
@@ -324,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Api\\appsettings.json",
               "RelativeDocumentMoniker": "src\\DevIO.Api\\appsettings.json",
@@ -336,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "DevIO.Business.csproj",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
               "RelativeDocumentMoniker": "src\\DevIO.Business\\DevIO.Business.csproj",
@@ -348,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "DevIO.Api.csproj",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Api\\DevIO.Api.csproj",
               "RelativeDocumentMoniker": "src\\DevIO.Api\\DevIO.Api.csproj",
@@ -360,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -372,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "IProdutoService.cs",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Intefaces\\IProdutoService.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Business\\Intefaces\\IProdutoService.cs",
@@ -384,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "IProdutoRepository.cs",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Intefaces\\IProdutoRepository.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Business\\Intefaces\\IProdutoRepository.cs",
@@ -396,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "INotificador.cs",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Intefaces\\INotificador.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Business\\Intefaces\\INotificador.cs",
@@ -408,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "IEnderecoRepository.cs",
               "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\ApiCompleta\\src\\DevIO.Business\\Intefaces\\IEnderecoRepository.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Business\\Intefaces\\IEnderecoRepository.cs",
