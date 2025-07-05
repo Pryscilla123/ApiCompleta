@@ -17,7 +17,7 @@ export class ListaComponent implements OnInit {
   ngOnInit() {
     this.produtoService.obterTodos()
       .subscribe(
-        produtos => this.produtos = produtos,
+        produtos => this.produtos = produtos["data"],
         error => this.errorMessage = error,
     );   
   }

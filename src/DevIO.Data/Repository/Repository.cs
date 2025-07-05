@@ -46,6 +46,13 @@ namespace DevIO.Data.Repository
 
         public virtual async Task Remover(Guid id)
         {
+            var local = DbSet.Local.FirstOrDefault(e => e.Id == id);
+
+            if (local != null)
+            {
+                Db.Entry(local).State = EntityState.Detached;
+            }
+
             DbSet.Remove(new TEntity { Id = id });
             await SaveChanges();
         }

@@ -18,7 +18,7 @@
         <select class="form-control" data-val="true" formControlName="fornecedorId"
           data-val-required="O campo Fornecedor é obrigatório" id="FornecedorId" name="FornecedorId">
           <option></option>
-          <option *ngFor='let fornecedor of fornecedores' value="{{ fornecedor.id }}">{{ fornecedor.nome }}</option>
+          <option *ngFor="let fornecedor of fornecedores || []" [value]="fornecedor.id">{{ fornecedor.nome }}</option>
         </select>
 
         <span class="text-danger field-validation-valid" data-valmsg-for="FornecedorId"

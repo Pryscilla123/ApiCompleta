@@ -28,7 +28,10 @@ export class CadastroComponent implements OnInit {
 
     this.produtoService.obterFornecedores()
       .subscribe(
-        fornecedores => this.fornecedores = fornecedores,
+        fornecedores => {
+          console.log('Fornecedores recebidos:', fornecedores['data']); // DEBUG
+          this.fornecedores = fornecedores['data'];
+        },
         fail => this.errors = fail.error.errors
       );
 
@@ -58,7 +61,7 @@ export class CadastroComponent implements OnInit {
       this.produtoHandle(produtoForm)
         .subscribe(
           result => { this.onSaveComplete(result) },
-          fail => { this.onError(fail) }
+          fail => { console.log('Conteúdo da variável fail:', fail.error.errors); this.onError(fail);}
         );
     }
   }

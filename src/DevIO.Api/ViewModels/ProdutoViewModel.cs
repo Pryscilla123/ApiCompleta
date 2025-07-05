@@ -28,6 +28,8 @@ namespace DevIO.Api.ViewModels
         [ScaffoldColumn(false)]
         public DateTime DataCadastro { get; set; }
 
+        public string NomeFornecedor { get; set; }
+
         public bool Ativo {  get; set; }
     }
 }
