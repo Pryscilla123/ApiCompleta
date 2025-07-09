@@ -14,6 +14,11 @@ namespace DevIO.Api.Configurations
 
             CreateMap<Produto, ProdutoViewModel>()
                 .ForMember(dest => dest.NomeFornecedor, opt => opt.MapFrom(src => src.Fornecedor.Nome));
+
+            CreateMap<ProdutoImagemViewModel, Produto>();
+
+            CreateMap<Produto, ProdutoImagemViewModel>()
+                .ForMember(dest => dest.NomeFornecedor, opt => opt.MapFrom(src => src.Fornecedor.Nome));
         }
     }
 }
