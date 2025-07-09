@@ -130,7 +130,7 @@ namespace DevIO.Api.Controllers
 
             var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/app/demo-webapi/src/assets", imgPrefixo + arquivo.FileName);
 
-            if(System.IO.File.Exists(path))
+            if (System.IO.File.Exists(path))
             {
                 NotificarErro("Já existe um arquivo com este nome!");
                 return false;
@@ -142,5 +142,6 @@ namespace DevIO.Api.Controllers
             }
 
             return true;
+        }
     }
 }
