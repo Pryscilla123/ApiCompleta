@@ -78,6 +78,39 @@ namespace DevIO.Api.Controllers
             return CustomResponse(produtoImagemViewModel);
         }
 
+        [HttpPut("{id:guid}")]
+        public async Task<ActionResult<ProdutoViewModel>> Put(Guid id, [FromBody ] ProdutoViewModel produtoViewModel)
+        {
+            if (id != produtoViewModel.Id)
+            {
+                NotificarErro("Produto não encontrado!");
+                return CustomResponse();
+            }
+
+            var produtoAtualizacao = await ObterProduto(id);
+            produtoViewModel.Imagem = produtoAtualizacao.Imagem;
+            if(!ModelState.IsValid) return CustomResponse(ModelState);
+
+            if(produtoViewModel.ImagemUpload != null)
+            {
+                var imageNome = Guid.NewGuid() + "_" + produtoViewModel.Imagem;
+                if(!UploadArquivo(produtoViewModel.ImagemUpload, imageNome))
+                {
+                    return CustomResponse(ModelState);
+                }
+                produtoAtualizacao.Imagem = imageNome;
+            }
+            
+            produtoAtualizacao.Nome = produtoViewModel.Nome;
+            produtoAtualizacao.Descricao = produtoViewModel.Descricao;
+            produtoAtualizacao.Valor = produtoViewModel.Valor;
+            produtoAtualizacao.Ativo = produtoViewModel.Ativo;
+
+            await _produtoService.Atualizar(_mapper.Map<Produto>(produtoAtualizacao));
+
+            return CustomResponse(produtoViewModel);
+        }
+
         [HttpDelete("{id:guid}")]
         public async Task<ActionResult<ProdutoViewModel>> Delete(Guid id)
         {
@@ -142,6 +175,11 @@ namespace DevIO.Api.Controllers
             }
 
             return true;
+        }
+
+        private async Task<ProdutoViewModel> ObterProduto(Guid id)
+        {
+            return _mapper.Map<ProdutoViewModel>(await _produtoRepository.ObterPorId(id));
         }
     }
 }
