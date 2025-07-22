@@ -16,6 +16,8 @@ namespace DevIO.Api.Configurations
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
             });
 
+            builder.Services.AddIdentityConfiguration(builder.Configuration);
+
             builder.Services.AddAutoMapper(typeof(Program));
 
             builder.Services.Configure<ApiBehaviorOptions>(options =>
